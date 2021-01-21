@@ -1,7 +1,7 @@
 # Pre-work for Git Tutorial 
 
 ## Installing your text editor
-> Install VScode, Sublime, or another text editor on your computer (I prefer VScode). If you downloaded vscode and have a mac, open up the Command Palette with **cmd+shift+p** or go to ```view > command palette``` in vscode and type in ```Shell Command: Install 'code' command in PATH```. This will allow you to open up vscode from the terminal in mac.
+> Install VScode, Sublime, or another text editor on your computer (I prefer VScode, and will refer to VScode throughout the tutorial and project). If you downloaded VScode and have a mac, open up the Command Palette with **cmd+shift+p** or go to ```view > command palette``` in VScode and type in ```Shell Command: Install 'code' command in PATH```. This will allow you to open up VScode from the terminal in Mac.
 
 ## Installing Git through Homebrew
 First, we need to make sure you have git installed on your computer.
