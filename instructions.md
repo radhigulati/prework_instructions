@@ -93,7 +93,7 @@ $ git config user.email
 email@example.com
 ```
 
-## Pre-work for Hands-on Project
+# Pre-work for Hands-on Project
 
 <h2> Install node and npm </h2> 
 
