@@ -3,6 +3,8 @@
 # Pre-work for Git Tutorial 
 This pre-work needs to be complete before 11am PT on Wednesday, January 27th. The istructions below will help you install and download certain tools you need to complete both hands-on activites. 
 
+When you type in a command in your terminal, do not add the ```$``` sign. The dollar sign is the symbol used to signify where you can begin typing in commands.
+
 If you run into any issues, please let me know soon so we can work together to make sure everyone is set up for success next week.
 
 I'm looking forward to working with everyone!
