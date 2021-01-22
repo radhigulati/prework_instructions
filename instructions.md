@@ -81,7 +81,7 @@ $ pbcopy < ~/.ssh/id_rsa.pub
 
 > **Learning Note:** An SSH key is an alternate way to identify yourself that doesn't require you to enter you username and password every time.
 
-Next, lets set up your Git usernmae for every repository on your computer
+Next, lets set up your Git username for every repository on your computer
 
 1. Open terminal if it's not already open
 2. Set a Git username:
