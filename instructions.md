@@ -39,6 +39,8 @@ To install git, first install [Homebrew](https://brew.sh/) with
 
     $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+You might be prompted for your password after you press enter. Your password is the master password for your computer (your mac password). As you are typing your password, you won't actually see what you are typing. Once you are sure you have typed it out correctly, press Enter.
+
 > Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's macOS operating system and Linux.
 
 Once you've installed homebrew, you can install git with
