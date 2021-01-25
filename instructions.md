@@ -31,6 +31,10 @@ If you do you'll see something like
 
 If not, you might see something like
 
+    $ command not found
+
+Let's download Git.
+
 To install git, first install [Homebrew](https://brew.sh/) with 
 
     $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
