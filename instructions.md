@@ -47,8 +47,7 @@ Once you've installed homebrew, you can install git with
     
     $ brew install git
 
-Now let's set your Git username in your Terminal
-
+Now let's set your SSH keys to your GitHub account.
 
 ## Adding your SSH Keys
 Let's add your SSH keys to your GitHub account
