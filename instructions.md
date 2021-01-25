@@ -1,6 +1,9 @@
-
-
 # Pre-work for Git Tutorial 
+
+**IMPORTANT NOTE DO NOT PROCEED WITHOUT READING** If you have a Mac and the operating system you are running is High Sierra or older you will run into problems with the instructions below. To check which operating system you are on go to the **apple icon on the top left of the menu bar > about this Mac > Overview**. Currently, IT does not want us downloading Big Sur, so if you are on High Sierra, you can upgrade to Mojave.
+
+---
+
 This pre-work needs to be complete before 11am PT on Wednesday, January 27th. The istructions below will help you install and download certain tools you need to complete both hands-on activites. 
 
 When you type in a command in your terminal, do not add the ```$``` sign. The dollar sign is the symbol used to signify where you can begin typing in commands.
@@ -46,6 +49,8 @@ You might be prompted for your password after you press enter. Your password is 
 Once you've installed homebrew, you can install git with
     
     $ brew install git
+
+If you are running into issues with homebrew, you can install Git by following the instructions on [this](https://www.atlassian.com/git/tutorials/install-git) page. Just scroll down to "Git for Mac Installer."
 
 Now let's set your SSH keys to your GitHub account.
 
