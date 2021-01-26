@@ -1,6 +1,8 @@
 # Pre-work for Git Tutorial 
 
-**IMPORTANT NOTE DO NOT PROCEED WITHOUT READING** If you have a Mac and the operating system you are running is High Sierra or older you will run into problems with the instructions below. To check which operating system you are on go to the **apple icon on the top left of the menu bar > about this Mac > Overview**. Currently, IT does not want us downloading Big Sur, so if you are on High Sierra, you can upgrade to Mojave.
+**IMPORTANT NOTE DO NOT PROCEED WITHOUT READING** If you have a Mac and the operating system you are running is High Sierra or older you will run into problems with the instructions below. To check which operating system you are on go to the **apple icon on the top left of the menu bar > about this Mac > Overview**. Currently, IT does not want us downloading Big Sur, so if you are on High Sierra, you can upgrade to Mojave. 
+
+To upgrade your OS to Mojave, visit [this](https://support.apple.com/en-us/HT211683) link, and under Download macOS you should see macOS Mojave 10.14.
 
 ---
 
