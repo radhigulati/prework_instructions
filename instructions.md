@@ -71,7 +71,7 @@ $ rm ~/.ssh/github_rsa.pub
 ```
 3. When you're prompted to **"Enter a file in which to save the key,"** press Enter. This accepts the default file location.
 
-4. At the prompt, type a secure passphrase.
+4. Press ENTER when prompted for passphrase (you will not need one)
 
 5. Copy the SSH key to your clipboard. To do that type this command
 ```
