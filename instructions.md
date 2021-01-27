@@ -15,7 +15,7 @@ If you run into any issues, please let me know soon so we can work together to m
 I'm looking forward to working with everyone!
 
 ## Installing your text editor
-Install VScode on your computer. If you have a Mac, open up the Command Palette with **cmd+shift+p** or go to ```view > command palette``` in VScode and type in ```Shell Command: Install 'code' command in PATH```. This will allow you to open up VScode from the terminal in Mac.
+Install VScode on your computer. Once it's installed, move it to the Applications folder. If you have a Mac, open up the Command Palette with **cmd+shift+p** or go to ```view > command palette``` in VScode and type in ```Shell Command: Install 'code' command in PATH```. This will allow you to open up VScode from the terminal in Mac.
 
 ## Installing Git through Homebrew
 First, we need to make sure you have git installed on your computer.
