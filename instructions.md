@@ -6,8 +6,6 @@ To upgrade your OS to Mojave, visit [this](https://support.apple.com/en-us/HT211
 
 ---
 
-This pre-work needs to be complete before 11am PT on Wednesday, January 27th. The istructions below will help you install and download certain tools you need to complete both hands-on activites. 
-
 **PLEASE REMEMBER When you type in a command in your terminal, do not add the ```$``` sign. The dollar sign is the symbol used to signify where you can begin typing in commands.**
 
 If you run into any issues, please let me know soon so we can work together to make sure everyone is set up for success next week.
@@ -15,7 +13,9 @@ If you run into any issues, please let me know soon so we can work together to m
 I'm looking forward to working with everyone!
 
 ## Installing your text editor
-Install VScode on your computer. Once it's installed, move it to the Applications folder. If you have a Mac, open up the Command Palette with **cmd+shift+p** or go to ```view > command palette``` in VScode and type in ```Shell Command: Install 'code' command in PATH```. This will allow you to open up VScode from the terminal in Mac.
+Install VScode on your computer. Once it's installed, **move it to the Applications folder.** If you have a Mac, open up the Command Palette with **cmd+shift+p** or go to ```view > command palette``` in VScode and type in ```Shell Command: Install 'code' command in PATH```. This will allow you to open up VScode from the terminal in Mac.
+
+**If you are having issues with installing the code command make sure VScode is in your applications folder!**
 
 ## Installing Git through Homebrew
 First, we need to make sure you have git installed on your computer.
@@ -38,7 +38,9 @@ If not, you might see something like
 
     $ command not found
 
-Let's download Git.
+Let's download Git. 
+
+*You cannot download Homebrew unless you have at macOS Mojave. Go back to the beginning of the these instructions if you need help upgrading your operating system.*
 
 To install git, first install [Homebrew](https://brew.sh/) with 
 
