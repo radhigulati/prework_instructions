@@ -71,15 +71,13 @@ To delete ssh keys (don't do this without speaking to me first)
 $ cd ~/.ssh
 $ rm ~/.ssh/github_rsa.pub
 ```
-3. When you're prompted to **"Enter a file in which to save the key,"** press Enter. This accepts the default file location.
+3. When you're prompted to **"Enter a file in which to save the key,"** press Enter. This accepts the default file location. Do not type in a password!
 
-4. Press ENTER when prompted for passphrase (you will not need one)
-
-5. Copy the SSH key to your clipboard. To do that type this command
+4. Copy the SSH key to your clipboard. To do that type this command
 ```
 $ pbcopy < ~/.ssh/id_rsa.pub
 ```
-**Note** Once you type in the above command, the key will be copied to your clipboard. You can test it my pasting the key into a notepad.
+**Note** Once you type in the above command, the key will be copied to your clipboard. You can test it by pasting the key into a notepad.
 
 6. In the upper-right corner of any page in GitHub, click your profile photo, then click Settings.
 
